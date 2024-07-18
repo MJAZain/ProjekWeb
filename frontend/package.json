@@ -26,6 +26,7 @@
   },
   "proxy": "http://localhost:5000",
   "dependencies": {
-    "capstone-project": "file:.."
+    "capstone-project": "file:..",
+    "dotenv": "^16.4.5"
   }
 }
